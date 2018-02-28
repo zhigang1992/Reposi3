@@ -1,0 +1,40 @@
+<package>
+	<id>com.matrix.requirefull</id>
+	<name>Require Full</name>
+	<version>0.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description>This tweak will enable all Apps on iPad to run in split screen mode</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Like Inbox</description>
+			<image>inbox.PNG</image>
+		</screenshot>		
+		<screenshot>
+			<description>Spotify and Netflix</description>
+			<image>spotifynetflix.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>iPhone Apps like instgram</description>
+			<image>instgram.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Git Repo</name>
+			<url>https://github.com/zhigang1992/requirefull</url>
+			<iconclass>fa fa-github</iconclass>
+		</link>
+	</links>
+</package>
